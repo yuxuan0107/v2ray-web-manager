@@ -35,7 +35,7 @@
     * 内存大于等于300M
     * cpu vCPU 1核心
     * nginx 或者其他具有相同功能
-    * java8 +
+    
 
  #### 最新releases
    
